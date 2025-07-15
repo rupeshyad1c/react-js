@@ -1,0 +1,7 @@
+function dis(n){
+    console.log(`button ${n} pressed`)
+    document.getElementById("result").value +=n
+}
+function solve (){
+    			
+}
